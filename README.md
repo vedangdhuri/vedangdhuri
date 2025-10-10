@@ -1,3 +1,5 @@
+[![Header](https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true)]
+
 
 <h1 align="center">Hi 👋, I'm Vedang Dhuri</h1>
 <h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
