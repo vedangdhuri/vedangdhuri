@@ -1,4 +1,4 @@
-[![Header](https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true)]
+<span align="center">![Header](https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true)</span>
 
 
 <h1 align="center">Hi 👋, I'm Vedang Dhuri</h1>
