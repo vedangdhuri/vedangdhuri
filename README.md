@@ -2,6 +2,7 @@
   <img src="https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true" alt="Header" width="1011" height="299">
 </a>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
 <h1 align="center">Hi 👋, I'm Vedang Dhuri</h1>
 <h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
@@ -16,6 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedang-dhuri-b03280348/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vedangdhuri69)
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
+
 ## 🚀 Projects  
 
 - **Safe City Hub (Python, Django):**  
@@ -24,6 +27,7 @@
 - **CarHub Website Prototype (React.js, UI/UX):**  
   A user-friendly car marketplace prototype focusing on clean design and smooth user experience.  
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
 ## 📊 GitHub Stats  
 
@@ -32,6 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedangDhuri&layout=compact&theme=radical" alt="Top Languages" width="450" height="299"/>
 </div>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
 ## 🛠️ Skills  
 <table>
