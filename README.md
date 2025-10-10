@@ -36,34 +36,33 @@
   <tr>
     <td><b>Programming Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" alt="Python">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" alt="JavaScript">
-      <img src="https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus" alt="C++">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     </td>
   </tr>
   <tr>
     <td><b>Web Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" alt="Node.js">
-      <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" alt="React">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="React">
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" alt="MongoDB">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     </td>
   </tr>
   <tr>
     <td><b>Others</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino" alt="Arduino">
-      <img src="https://img.shields.io/badge/-ESP8266-333?style=flat&logo=espressif" alt="ESP8266">
-      <img src="https://img.shields.io/badge/-Figma-333?style=flat&logo=figma" alt="Figma">
+      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
       <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
