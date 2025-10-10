@@ -6,11 +6,11 @@
 <h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
 
 ## 🌐 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/vedangdhuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedangdhuri" height="30" width="40" /></a>
-<a href="https://fb.com/vedangdhuri69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vedangdhuri69" height="30" width="40" /></a>
-<a href="https://instagram.com/vedang.dhuri.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedang.dhuri.69" height="30" width="40" /></a>
-</p>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/vedang.dhuri.69)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/vedang.dhuri.69/)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discord.com/invite/mHp6krXD82)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vedang-dhuri-b03280348/)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/vedangdhuri69)
 
 ## 🚀 Projects  
 
