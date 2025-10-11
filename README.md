@@ -19,13 +19,32 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
-## 🚀 Projects  
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <h3 style="margin-top: 0;">🔒 Safe City Hub <span style="color: gray; font-size: 0.9em;">(Python, Django)</span></h3>
+  <p style="margin: 8px 0; line-height: 1.5;">
+    A <b>crime reporting and analysis system</b> designed to improve city safety and provide secure communication between citizens and police authorities.  
+    The platform includes citizen complaint registration, real-time status tracking, and analytics dashboards for higher police officers.
+  </p>
+  <p><b>Key Features:</b> Role-based access, analytics dashboard, secure report submission, and smart search filters.</p>
+  <p><b>Tech Stack:</b> Python, Django, HTML/CSS, Bootstrap, MySQL/MongoDB</p>
 
-- **Safe City Hub (Python, Django):**  
-  A crime reporting and analysis system designed to improve city safety and provide secure communication between citizens and police authorities.  
+  <p>
+    🔗 <a href="https://github.com/VedangDhuri/SafeCity-Hub" target="_blank">Repository</a>  
+    • 🌐 <a href="https://vedangdhuri.github.io/safecity-demo" target="_blank">Live Demo</a>
+  </p>
+</div>
 
-- **CarHub Website Prototype (React.js, UI/UX):**  
-  A user-friendly car marketplace prototype focusing on clean design and smooth user experience.  
+<!-- CarHub Website Prototype -->
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <h3 style="margin-top: 0;">🚗 CarHub Website Prototype <span style="color: gray; font-size: 0.9em;">(React.js, UI/UX)</span></h3>
+  <p style="margin: 8px 0; line-height: 1.5;">
+    A <b>user-friendly car marketplace prototype</b> focused on clean design, responsive layout, and smooth browsing experience.  
+    It allows users to explore, filter, and compare vehicles with a visually engaging UI.
+  </p>
+  <p><b>Key Features:</b> Responsive layout, product cards, filters, and animated transitions.</p>
+  <p><b>Tech Stack:</b> React.js, Bootstrap, Figma (UI Design)</p>
+
+</div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
