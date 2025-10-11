@@ -82,6 +82,6 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedangDhuri&show_icons=true&theme=radical" alt="Vedang's GitHub stats" width="450" height="299"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VedangDhuri&show_icons=true&theme=radical" alt="Vedang's GitHub stats" width="450" height="299"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedangDhuri&layout=compact&theme=radical" alt="Top Languages" width="450" height="299"/>
 </div>
