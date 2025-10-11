@@ -22,7 +22,7 @@
 ## 🚀 Projects  
 
 - **Safe City Hub (Python, Django):**  
-  A crime reporting and analysis system designed to improve city safety and provide secure communication between citizens and police authorities. [![Link](https://github.com/vedangdhuri/SafeCity-Hub)]
+  A crime reporting and analysis system designed to improve city safety and provide secure communication between citizens and police authorities. [![Link](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://github.com/vedangdhuri/SafeCity-Hub)
 
 - **CarHub Website Prototype (React.js, UI/UX):**  
   A user-friendly car marketplace prototype focusing on clean design and smooth user experience.  
