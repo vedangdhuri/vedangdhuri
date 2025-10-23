@@ -2,13 +2,9 @@
   <img src="https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true" alt="Header" width="1011" height="299">
 </a>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
-
 <h1 align="center">Hi 👋, I'm Vedang Dhuri</h1>
 <h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 <h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
 ## 🌐 Connect with Me
 <div align="center">
@@ -19,14 +15,10 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"><a href="https://t.me/vedangdhuri69"></a>
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
-
 ## 🚀 Projects  
 
 - **Safe City Hub (Python, Django):**  
   A crime reporting and analysis system designed to improve city safety and provide secure communication between citizens and police authorities. [![Link](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vedangdhuri/SafeCity-Hub)
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
 
 ## 🛠️ Skills  
 <table>
@@ -76,7 +68,11 @@
   </tr>
 </table>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:20px;margin-bottom:20px">
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=darkhub" />
+</div>
 
 ## 📊 GitHub Stats  
 
