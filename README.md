@@ -86,3 +86,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" height="299"/> <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=vedangdhuri&theme=dark&hide_border=false" alt="" width="450" height="299"/>
 </div>
+
+## 📈 Contributions
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
