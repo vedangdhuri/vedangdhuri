@@ -76,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vedangdhuri" />
+  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=radical" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
