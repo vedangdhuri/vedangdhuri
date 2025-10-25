@@ -76,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=darkhub" />
 </div>
 
 ## 📊 GitHub Stats  
