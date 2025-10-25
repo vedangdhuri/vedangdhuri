@@ -78,6 +78,9 @@
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=vedangdhuri" />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
+</div>
 
 ## 📊 GitHub Stats  
 
