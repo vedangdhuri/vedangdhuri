@@ -92,6 +92,8 @@
 
 ## 📈 Contributions
 
-<div align="center">
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/4e579efd524dabdddfc92e53776cf7225484f874/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/20de18bcbd8e71963ad2f9535383dd55ec1c9b57/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
