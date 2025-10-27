@@ -93,5 +93,5 @@
 ## 📈 Contributions
 
 <div align="center">
-  <img alt="github-snake" src="https://github.com/vedangdhuri/vedangdhuri/blob/output/github-snake-dark.svg" />
-</picture>
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+</div>
