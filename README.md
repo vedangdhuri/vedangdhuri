@@ -93,7 +93,7 @@
 ## 📈 Contributions
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/a10f8c93f2c017eead71599536359528fb6c3ec9/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/1c4f81d4cffb064794a67bd7feb2c77a06c40051/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
