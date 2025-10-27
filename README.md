@@ -93,7 +93,7 @@
 ## 📈 Contributions
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" src="https://github.com/vedangdhuri/vedangdhur/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" src="https://github.com/vedangdhuri/vedangdhuri/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vedangdhuri/vedangdhur/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vedangdhuri/vedangdhuri/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
