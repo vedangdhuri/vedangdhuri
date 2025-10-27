@@ -1,4 +1,4 @@
-<a href="https://vedangdhuri.github.io/vedang-portfolio/">
+<a href="https://vedangdhuri.github.io/portfolio-main/">
   <img src="https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true" alt="Header" width="1011" height="299">
 </a>
 
@@ -17,7 +17,7 @@
   <a href="https://discord.com/invite/mHp6krXD82" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.linkedin.com/in/vedang-dhuri-b03280348/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/vedangdhuri69" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://vedangdhuri.github.io/vedang-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+  <a href="https://vedangdhuri.github.io/portfolio-main/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
 </div>
 
 ## 🚀 Projects  
