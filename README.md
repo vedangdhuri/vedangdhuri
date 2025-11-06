@@ -1,5 +1,5 @@
 <a href="https://vedangdhuri.github.io/">
-  <img src="https://github.com/vedangdhuri/images/blob/main/standard.gif?raw=true" alt="Header" width="1011" height="299">
+  <img src="https://raw.githubusercontent.com/vedangdhuri/images/refs/heads/main/github-header-banner.png" alt="Header" width="1011" height="299">
 </a>
 
 <h1 align="center">Hi 👋, I'm Vedang Dhuri</h1>
