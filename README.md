@@ -10,7 +10,7 @@
 <h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 <h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
 
-## 🌐 Connect with Me
+<h2 align="left"> 🌐 Connect with Me </h2>
 <div align="center">
   <a href="https://www.instagram.com/vedang.dhuri.69" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/vedang.dhuri.69/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
@@ -20,12 +20,7 @@
   <a href="https://vedangdhuri.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
 </div>
 
-## 🚀 Projects  
-
-- **Safe City Hub (Python, Django):**  
-  A crime reporting and analysis system designed to improve city safety and provide secure communication between citizens and police authorities. [![Link](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vedangdhuri/SafeCity-Hub)
-
-## 🛠️ Skills  
+<h2 align="left"> 🛠️ Skills </h2>  
 <table>
   <tr>
     <td><b>Programming Languages</b></td>
@@ -73,7 +68,7 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+<h2 align="left"> 🏆 GitHub Trophies </h2>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=radical" />
@@ -82,7 +77,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
 </div> -->
 
-## 📊 GitHub Stats  
+<h2 align="left"> 📊 GitHub Stats </h2>
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Vedang's GitHub stats" width="450" height="299"/> <br /> -->
@@ -90,7 +85,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=vedangdhuri&theme=dark&hide_border=false" alt="" width="450" height="299"/>
 </div>
 
-## 📈 Contributions
+<<h2 align="left"> 📈 Contributions </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
