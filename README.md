@@ -85,7 +85,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=vedangdhuri&theme=dark&hide_border=false" alt="" width="450" height="299"/>
 </div>
 
-<<h2 align="left"> 📈 Contributions </h2>
+<h2 align="left"> 📈 Contributions </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
