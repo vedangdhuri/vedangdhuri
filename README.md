@@ -108,13 +108,13 @@
 </table>
 
 <h2 align="left"> 🏆 GitHub Trophies </h2>
-
+<!--
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=radical" />
-</div>
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
 </div> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
+</div>
 
 <h2 align="left"> 📊 GitHub Stats </h2>
 
