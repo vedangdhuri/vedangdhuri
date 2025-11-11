@@ -21,7 +21,7 @@
 </div>
 
 <h2 align="left"> 🛠️ Skills </h2>  
-<table>
+<table align="center">
   <tr>
     <td><b>Programming Languages</b></td>
     <td>
