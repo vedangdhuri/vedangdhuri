@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh&style=plastic" alt="">
       <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="">
+      <!-- <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt=""> -->
     </td>
   </tr>
   <tr>
