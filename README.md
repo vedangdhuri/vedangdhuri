@@ -21,7 +21,7 @@
 </div>
 
 <h2 align="left"> 🛠️ Skills </h2>  
-<table width="1011" align="center">
+<table>
   <tr>
     <td><b>Programming Languages</b></td>
     <td>
@@ -37,6 +37,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
+      
     </td>
   </tr>
 
@@ -79,6 +80,14 @@
     </td>
   </tr>
   <tr>
+    <td><b>Cloud System</b></td>
+    <td>
+      <!-- Shield.io Badge-->
+      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="">
+    <td>
+  </tr>
+  <tr>
     <td><b>Others</b></td>
     <td>
       <!-- Markdown Badges -->
@@ -88,6 +97,8 @@
       <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"> -->
       <!-- Shield.io Badge-->
+      <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic" alt="">
+      <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh&style=plastic" alt="">
       <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="">
@@ -108,13 +119,13 @@
 </table>
 
 <h2 align="left"> 🏆 GitHub Trophies </h2>
-<!--
+
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=radical" />
-</div> -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
 </div>
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
+</div> -->
 
 <h2 align="left"> 📊 GitHub Stats </h2>
 
