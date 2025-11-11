@@ -94,8 +94,8 @@
       <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"> -->
       <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic" alt="">
-      <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh&style=plastic" alt="">
+      <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh" alt="">
       <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="">
