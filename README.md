@@ -111,6 +111,7 @@
       <!-- Shield.io Badge-->
       <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/Riot-EB0029.svg?logo=riotgames&logoColor=white" alt="">
     </td>
   </tr>
 </table>
