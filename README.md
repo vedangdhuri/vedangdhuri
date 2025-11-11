@@ -118,7 +118,7 @@
 <h2 align="left"> 🏆 GitHub Trophies </h2>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=radical" />
+  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=dark&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" />
 </div>
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
