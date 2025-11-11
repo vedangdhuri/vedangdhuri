@@ -37,10 +37,8 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
-      
     </td>
   </tr>
-
   <tr>
     <td><b>Frontend</b></td>
     <td>
@@ -51,7 +49,6 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="">
     </td>
   </tr>
-
   <tr>
     <td><b>Fremeworks</b></td>
     <td>
