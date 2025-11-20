@@ -23,7 +23,17 @@
 <h2 align="left"> 🛠️ Skills </h2>  
 <table align="center">
   <tr>
-    <td><b>Programming Languages</b></td>
+    <td><b>Frontend</b></td>
+    <td>
+      <!-- Shield.io Badges -->
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
     <td>
       <!-- Markdown Badges -->
       <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -37,16 +47,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <!-- Shield.io Badges -->
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="">
     </td>
   </tr>
   <tr>
