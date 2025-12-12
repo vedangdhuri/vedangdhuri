@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/vedangdhuri/images/refs/heads/main/github-header-banner-2.png" alt="Header" width="1011" height="299">
 </a>
 
-<h1 align="center">Hi 👋, I'm Vedang Dhuri</h1>
+<h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
+<h3 align="center"> MERN Stack | IoT Enthusiast | Building Secure Systems </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
   <img src="https://img.shields.io/badge/Total_Repos-13-5865F2?style=flat" alt="Repository" />
@@ -116,6 +118,12 @@
     </td>
   </tr>
 </table>
+
+<h2 align="left"> 💼 Experience </h2>
+
+<h3 align="left"><stronge> Internships in React & IoT</stronge></h3>
+<h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
+<h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
 
 <h2 align="left"> 🏆 GitHub Trophies </h2>
 
