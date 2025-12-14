@@ -83,6 +83,7 @@
     <td><b>Cloud System</b></td>
     <td>
       <!-- Shield.io Badge-->
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="">
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="">
     </td>
