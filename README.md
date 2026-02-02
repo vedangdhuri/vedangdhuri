@@ -48,6 +48,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
     </td>
@@ -63,6 +64,7 @@
       <!-- Shield.io Badge-->
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
+      <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="">
