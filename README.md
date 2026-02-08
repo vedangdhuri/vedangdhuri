@@ -103,8 +103,9 @@
       <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh" alt="">
       <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="">
+      <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="">
     </td>
   </tr>
   <tr>
