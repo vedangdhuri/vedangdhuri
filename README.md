@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
-  <img src="https://img.shields.io/badge/Total_Repos-18-5865F2?style=flat" alt="Repository" />
+  <img src="https://img.shields.io/badge/Total_Repos-20-5865F2?style=flat" alt="Repository" />
 </p>
 <h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 <h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
