@@ -1,4 +1,4 @@
-<a href="https://vedangdhuri.github.io/">
+<a href="https://vedangdhuri-io.vercel.app/">
   <img src="https://raw.githubusercontent.com/vedangdhuri/images/refs/heads/main/github-header-banner-2.png" alt="Header" width="1011" height="299">
 </a>
 
