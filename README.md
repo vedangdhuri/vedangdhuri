@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
   <img src="https://img.shields.io/badge/Total_Repos-20-5865F2?style=flat" alt="Repository" />
 </p>
-<h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
-<h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
 
 <h2 align="left"> 🌐 Connect with Me </h2>
 <div align="center">
@@ -22,6 +20,12 @@
   <a href="https://t.me/vedangdhuri69" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://vedangdhuri-io.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
 </div>
+
+<h2 align="left">📜 Rapid Fire</h3>
+<h4 align="left"> 🌱 I'm currently learning: 📚 Exploring MERN Stack & Python </h3>
+<h4 align="left"> 💬 Ask me about: 💡 JavaScript, React, Next.js, Node.js, MongoDB, and Python </h3>
+<h4 align="left"> ⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster! </h3>
+<h4 align="left"> 🎓College: 📚 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 
 <h2 align="left"> 🛠️ Skills </h2>  
 <table align="center">
