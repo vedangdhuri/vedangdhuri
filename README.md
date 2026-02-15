@@ -143,16 +143,29 @@
 </div> -->
 
 <h2 align="left"> 📊 GitHub Stats </h2>
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats-vd.vercel.app/api?username=vedangdhuri&hide=issues&show_icons=true&theme=dark" alt="Vedang's GitHub stats" width="450" height="195"/>
   <img src="https://streak-stats.demolab.com/?user=vedangdhuri&theme=dark" alt="" width="450" height="195"/> </br>
   <img src="https://github-readme-stats-vd.vercel.app/api/top-langs/?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" height="195"/>
+</div> -->
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedangdhuri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedangdhuri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedangdhuri&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedangdhuri&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedangdhuri&theme=github_dark)
+
 </div>
 
-<h2 align="left"> 📈 Contributions </h2>
+<h2 align="left"> 📈 Contributions & Contiributions Graph</h2>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<div align="center">
+<img src="http://github-readme-activity-graph.vercel.app/graph?username=vedangdhuri&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true&height=300">
+</div>
