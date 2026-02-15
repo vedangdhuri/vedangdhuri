@@ -144,9 +144,9 @@
 
 <h2 align="left"> 📊 GitHub Stats </h2>
 <div align="center">
-  <!--<img src="https://github-readme-stats-vd.vercel.app/api?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Vedang's GitHub stats" width="450" height="299"/> <br /> -->
-  <img src="https://github-readme-stats-vd.vercel.app/api/top-langs/?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" height="299"/> <br />
-  <img src="https://streak-stats.demolab.com/?user=vedangdhuri&theme=dark" alt="" width="450" height="299"/>
+  <img src="https://github-readme-stats-vd.vercel.app/api?username=vedangdhuri&hide=issues&show_icons=true&theme=dark&card_height=299" alt="Vedang's GitHub stats" width="450" height="299"/>
+  <img src="https://streak-stats.demolab.com/?user=vedangdhuri&theme=dark" alt="" width="450" height="299"/> </br>
+  <img src="https://github-readme-stats-vd.vercel.app/api/top-langs/?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" height="299"/>
 </div>
 
 <h2 align="left"> 📈 Contributions </h2>
