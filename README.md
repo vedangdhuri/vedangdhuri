@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Total_Repos-20-5865F2?style=flat" alt="Repository" />
 </p>
 
-<h2 align="left"> 🌐 Connect with Me </h2>
 <div align="center">
   <a href="https://leetcode.com/u/vedangdhuri/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
   <a href="https://www.instagram.com/vedang.dhuri.69" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -25,7 +24,7 @@
 <h4 align="left"> 🌱 I'm currently learning: 📚 Exploring MERN Stack & Python </h3>
 <h4 align="left"> 💬 Ask me about: 💡 JavaScript, React, Next.js, Node.js, MongoDB, and Python </h3>
 <h4 align="left"> ⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster! </h3>
-<h4 align="left"> 🎓College: 📚 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
+<h4 align="left"> 🎓 College: 📚 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 
 <h2 align="left"> 💼 Experience </h2>
 
