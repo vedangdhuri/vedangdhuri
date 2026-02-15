@@ -35,7 +35,7 @@
 
 <h2 align="left"> 🛠️ Skills </h2>  
 <table align="center">
-  <tr>
+  <tr align="center">
     <td><b>Frontend</b></td>
     <td>
       <!-- Shield.io Badges -->
@@ -45,7 +45,7 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="">
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><b>Backend</b></td>
     <td>
       <!-- Markdown Badges -->
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><b>Fremeworks</b></td>
     <td>
       <!-- Markdown Badges-->
@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="">
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><b>Databases</b></td>
     <td>
       <!-- Markdown Badges -->
@@ -91,7 +91,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="">
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><b>Cloud System</b></td>
     <td>
       <!-- Shield.io Badge-->
@@ -100,7 +100,7 @@
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="">
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><b>Others</b></td>
     <td>
       <!-- Markdown Badges -->
@@ -118,7 +118,7 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="">
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><b>Gaming</b></td>
     <td>
       <!-- Markdown Badges-->
