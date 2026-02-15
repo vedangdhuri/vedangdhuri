@@ -27,6 +27,13 @@
 <h4 align="left"> ⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster! </h3>
 <h4 align="left"> 🎓College: 📚 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
 
+<h2 align="left"> 💼 Experience </h2>
+
+<h3 align="left"><stronge> Internships in React & IoT</stronge></h3>
+<h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
+<h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
+
+
 <h2 align="left"> 🛠️ Skills </h2>  
 <table align="center">
   <tr>
@@ -126,12 +133,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left"> 💼 Experience </h2>
-
-<h3 align="left"><stronge> Internships in React & IoT</stronge></h3>
-<h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
-<h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
 
 <h2 align="left"> 🏆 GitHub Trophies </h2>
 
