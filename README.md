@@ -3,7 +3,11 @@
 </a>
 
 <h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
-<h3 align="center"> MERN Stack | IoT Enthusiast | Building Secure Systems </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;IoT+Enthusiast;Building+Secure+Systems;Open+Source+Contributor" alt="Typing SVG"/>
+  </a>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
@@ -20,129 +24,65 @@
   <a href="https://vedangdhuri-io.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
 </div>
 
-<h2 align="left">📜 Rapid Fire</h3>
-<h4 align="left"> 🌱 I'm currently learning: 📚 Exploring MERN Stack & Python </h3>
-<h4 align="left"> 💬 Ask me about: 💡 JavaScript, React, Next.js, Node.js, MongoDB, and Python </h3>
-<h4 align="left"> ⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster! </h3>
-<h4 align="left"> 🎓 College: 📚 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
+### 📜 Rapid Fire
+- 🌱 I'm currently learning: `Exploring MERN Stack & Python`
+- 💬 Ask me about: `JavaScript`, `React`, `Next.js`, `Node.js`, `MongoDB`, and `Python`
+- 🎓 College: `3rd-year Computer Engineering student under MSBTE (Batch 26)`
+- ⚡ Fun fact: `I’m a frugal innovator`
+-  📫 Reach me at: `vedangdhuri.work@gmail.com`
 
-<h2 align="left"> 💼 Experience </h2>
+### 💼 Experience
+<h4 align="left"><stronge> Internships in React & IoT</stronge></h4>
+<p align="left" style="font-size: 30px"><ul><li> Worked on frontend development using React.</li></ul> </p>
+<p align="left" style="font-size: 30px"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </p>
 
-<h3 align="left"><stronge> Internships in React & IoT</stronge></h3>
-<h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
-<h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
 
-
-<h2 align="left"> 🛠️ Skills </h2>  
-<table align="center">
-  <tr align="center">
-    <td><b>Frontend</b></td>
-    <td>
-      <!-- Shield.io Badges -->
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="">
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>Backend</b></td>
-    <td>
-      <!-- Markdown Badges -->
-      <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> -->
-      <!-- Shield.io Badge -->
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>Fremeworks</b></td>
-    <td>
-      <!-- Markdown Badges-->
-      <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
-      <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
-      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="">
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>Databases</b></td>
-    <td>
-      <!-- Markdown Badges -->
-      <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="">
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>Cloud System</b></td>
-    <td>
-      <!-- Shield.io Badge-->
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="">
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="">
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>Others</b></td>
-    <td>
-      <!-- Markdown Badges -->
-      <!-- <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh" alt="">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="">
-      <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="">
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>Gaming</b></td>
-    <td>
-      <!-- Markdown Badges-->
-      <!-- <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
-      <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot">
-      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Riot-EB0029.svg?logo=riotgames&logoColor=white" alt="">
-    </td>
-  </tr>
-</table>
-
-<h2 align="left"> 🏆 GitHub Trophies </h2>
+### 🛠️ Skills
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" />
+  <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=html">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=css">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=tailwindcss">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=bootstrap">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=materialui-dark">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=python">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=java">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=javascript">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=typescript">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=c"> <br>
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=cpp">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=nodejs">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=expressjs">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=reactjs">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=nextjs">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=django">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=vite">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=mongodb">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=mysql">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=sqlite"> <br>
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=amazonewebservices-dark">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=netlify">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=render">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=arduino">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=androidstudio">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=figma">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=canva">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=postman">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=git">
+  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=motion">
+  
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers&row=1&column=6&margin-w=10" />
 </div>
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
 </div> -->
 
-<h2 align="left"> 📊 GitHub Stats </h2>
+### 📊 GitHub Stats
 <!--<div align="center">
   <img src="https://github-readme-stats-vd.vercel.app/api?username=vedangdhuri&hide=issues&show_icons=true&theme=dark" alt="Vedang's GitHub stats" width="450" height="195"/>
   <img src="https://streak-stats.demolab.com/?user=vedangdhuri&theme=dark" alt="" width="450" height="195"/> </br>
@@ -159,7 +99,7 @@
 
 </div>
 
-<h2 align="left"> 📈 Contributions & Contiributions Graph</h2>
+### 📈 Contributions & Contiributions Graph
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
