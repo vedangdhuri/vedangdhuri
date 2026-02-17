@@ -76,7 +76,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers&row=1&column=6&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=onestar&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers&row=1&column=6&margin-w=10" />
 </div>
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
