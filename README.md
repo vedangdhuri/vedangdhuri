@@ -1,11 +1,10 @@
-<a href="https://vedangdhuri-io.vercel.app/">
+<!--<a href="https://vedangdhuri-io.vercel.app/">
   <img src="https://raw.githubusercontent.com/vedangdhuri/images/refs/heads/main/github-header-banner-2.png" alt="Header" width="1011" height="299">
 </a>
-
+-->
 <h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;IoT+Enthusiast;Building+Secure+Systems;Open+Source+Contributor" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A11F&center=true&width=500&height=75&lines=Computer+Engineering+Student;MERN+STACK+Developer;IoT+Enthusiast;Building+Secure+Systems;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
