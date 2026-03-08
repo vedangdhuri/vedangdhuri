@@ -1,5 +1,5 @@
 <a href="https://vedangdhuri-io.vercel.app/">
-  <img src="https://github.com/vedangdhuri/vedangdhuri/blob/main/vedangdhuri-readme-banner.png?raw=true" alt="Header" width="1011" height="299">
+  <img src="./vedangdhuri-readme-banner.png" alt="Header" width="1011" height="299">
 </a>
 
 <h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
