@@ -1,4 +1,4 @@
-<a href="https://vedangdhuri-io.vercel.app/">
+<a href="https://vedangdhuri-io.vercel.app">
   <img src="./vedangdhuri-readme-banner.png" alt="Header" width="1011" height="299">
 </a>
 
