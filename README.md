@@ -24,52 +24,138 @@
 </div>
 
 ### 📜 Rapid Fire
+
 - 🌱 I'm currently learning: `Exploring MERN Stack & Python`
 - 💬 Ask me about: `JavaScript`, `React`, `Next.js`, `Node.js`, `MongoDB`, and `Python`
 - 🎓 College: `3rd-year Computer Engineering student under MSBTE (Batch 26)`
 - ⚡ Fun fact: `I’m a frugal innovator`
--  📫 Reach me at: `vedangdhuri.work@gmail.com`
+- 📫 Reach me at: `vedangdhuri.work@gmail.com`
 
 ### 💼 Experience
+
 <h4 align="left"><stronge> Internships in React & IoT</stronge></h4>
 <p align="left" style="font-size: 30px"><ul><li> Worked on frontend development using React.</li></ul> </p>
 <p align="left" style="font-size: 30px"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </p>
 
-
 ### 🛠️ Skills
 
 <div align="center">
-  <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=html">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=css">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=tailwindcss">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=bootstrap">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=materialui-dark">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=python">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=java">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=javascript">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=typescript">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=c"> <br>
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=cpp">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=nodejs">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=expressjs">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=reactjs">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=nextjs">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=django">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=vite">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=mongodb">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=mysql">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=sqlite"> <br>
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=amazonewebservices-dark">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=netlify">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=render">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=arduino">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=androidstudio">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=figma">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=canva">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=postman">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=git">
-  <img style="margin-right: 4px;"src="https://i.icoziv.workers.dev/icons?i=motion">
-  
+  <table>
+    <tr>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=html" alt="icon" width="65" height="65">
+        <br>HTML
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=css" alt="icon" width="65" height="65">
+        <br>CSS
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=tailwindcss" alt="icon" width="65" height="65">
+        <br>Tailwindcss
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=bootstrap" alt="icon" width="65" height="65">
+        <br>Bootstrap
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=python" alt="icon" width="65" height="65">
+        <br>Python
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=java" alt="icon" width="65" height="65">
+        <br>Java
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=javascript" alt="icon" width="65" height="65">
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=typescript" alt="icon" width="65" height="65">
+        <br>TypeScript
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=c" alt="icon" width="65" height="65">
+        <br>C
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=cpp" alt="icon" width="65" height="65">
+        <br>C++
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=nodejs" alt="icon" width="65" height="65">
+        <br>Node.js
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=expressjs" alt="icon" width="65" height="65">
+        <br>Express.js
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=reactjs" alt="icon" width="65" height="65">
+        <br>React.js
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=nextjs" alt="icon" width="65" height="65">
+        <br>Next.js
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=django" alt="icon" width="65" height="65">
+        <br>Django
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=vite" alt="icon" width="65" height="65">
+        <br>Vite
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=mongodb" alt="icon" width="65" height="65">
+        <br>MongoDB
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=postgresql" alt="icon" width="65" height="65">
+        <br>PostgreSQL
+      </td>
+    </tr>  
+    <tr>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=amazonewebservices-dark" alt="icon" width="65" height="65">
+        <br>AWS
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=render" alt="icon" width="65" height="65">
+        <br>Render
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=arduino" alt="icon" width="65" height="65">
+        <br>Arduino
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=androidstudio" alt="icon" width="65" height="65">
+        <br>Android Studio
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65">
+        <br>Firebase
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=canva" alt="icon" width="65" height="65">
+        <br>Canva
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=postman" alt="icon" width="65" height="65">
+        <br>Postman
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=git" alt="icon" width="65" height="65">
+        <br>Git
+      </td>
+      <td align="center">
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=motion" alt="icon" width="65" height="65">
+        <br>Motion
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🏆 GitHub Trophies
@@ -82,6 +168,7 @@
 </div> -->
 
 ### 📊 GitHub Stats
+
 <!--<div align="center">
   <img src="https://github-readme-stats-vd.vercel.app/api?username=vedangdhuri&hide=issues&show_icons=true&theme=dark" alt="Vedang's GitHub stats" width="450" height="195"/>
   <img src="https://streak-stats.demolab.com/?user=vedangdhuri&theme=dark" alt="" width="450" height="195"/> </br>
