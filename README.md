@@ -139,8 +139,8 @@
         <br>Firebase
       </td>
       <td align="center">
-        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=canva" alt="icon" width="65" height="65">
-        <br>Canva
+        <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=figma" alt="icon" width="65" height="65">
+        <br>Figma
       </td>
       <td align="center">
         <img style="margin-right: 4px;" src="https://i.icoziv.workers.dev/icons?i=postman" alt="icon" width="65" height="65">
