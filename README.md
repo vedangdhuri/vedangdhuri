@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://vedangdhuri.xyz">
-    <img src="./vedangdhuri-readme-banner.png" alt="Vedang Dhuri — Full-Stack Developer" width="1011" height="299" />
+    <img src="./assets/vedangdhuri-animated-github-banner.svg" alt="Vedang Dhuri — animated terminal profile banner" width="1280" />
   </a>
 </p>
 
@@ -45,6 +45,12 @@
   <br />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws,gcp,docker,git,github,postman" alt="Data, cloud, and tools" />
 </p>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=onestar&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7&margin-w=10" />
+</div>
 
 ## Learning in public
 
