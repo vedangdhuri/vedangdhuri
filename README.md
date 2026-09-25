@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://vedangdhuri.xyz">
-    <img src="./assets/vedangdhuri-animated-github-banner.svg" alt="Vedang Dhuri — animated terminal profile banner" width="1280" />
+    <img src="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/output/vedangdhuri-readme-banner.svg" alt="Vedang Dhuri — animated profile banner" width="1280" />
   </a>
 </p>
 
