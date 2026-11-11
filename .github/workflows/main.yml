@@ -1,7 +1,7 @@
 name: generate animation and profile banner
 
 on:
-  # run automatically every 24 hours
+  # run automatically every hour
   schedule:
     - cron: "0 * * * *" 
   
